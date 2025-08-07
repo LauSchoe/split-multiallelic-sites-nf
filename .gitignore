@@ -1,0 +1,8 @@
+output
+work
+*nextflow.log
+*nextflow.log.*
+.nextflow
+out
+.DS_Store
+.nf-test

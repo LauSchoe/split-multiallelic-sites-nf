@@ -1,0 +1,10 @@
+name: root
+channels:
+  - defaults
+  - bioconda
+  - conda-forge
+dependencies:
+  - bcftools=1.20
+  - python=3.12.2
+  - conda: 
+    - pandas
