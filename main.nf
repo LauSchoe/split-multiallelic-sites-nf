@@ -1,8 +1,8 @@
 /*
 ========================================================================================
-    LauSchoe/split_multiallelic_sites
+    LauSchoe/split-multiallelic-sites-nf
 ========================================================================================
-    Github : https://github.com/LauSchoe/split_multiallelic_sites
+    Github : https://github.com/LauSchoe/split-multiallelic-sites-nf
     Author: Laura Schöttle
     ---------------------------
 */
